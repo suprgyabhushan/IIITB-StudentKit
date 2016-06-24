@@ -36,7 +36,7 @@
 <td><p>Get all your doubts cleared in this interactive session with iMTech Coordinator about the course and electives.Moreover interact with your batchmates here.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Tuesday, 2</strong><sup><strong>nd</strong></sup> <strong>August 2016</strong></p></td>
+<td><p><strong>Tuesday, 2</strong><sup><strong>nd</strong></sup> <strong>August </strong></p></td>
 <td><p>The First Day Of College</p></td>
 <td><p>Excited ! You need to Wait.Timings will be informed on the day of orientation.</p>
 <p>Also the information will be sent on respective <strong>IIITB Mail</strong></p></td>
@@ -49,80 +49,84 @@
 <td><p>A talk show hosted by the director.Make your impression count.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Saturday/Sunday, 6/7</strong><sup><strong>th</strong></sup> <strong>August 2016</strong></p>
-<p><strong>(Not decided)</strong></p></td>
-<td><p>Inter Batch Informals</p></td>
-<td><p>8:00 PM – 10:00 PM</p>
+<td><p><strong>Saturday/Sunday, 6/7</strong><sup><strong>th</strong></sup> <strong>August </strong></p>
+<p><strong>(Finalized date will be told later.)</strong></p></td>
+<td><p>Inter Batch Informals.Commonly known as ragging in other colleges.</p></td>
+<td><p> TIME-(BAD XD) It's time to meet your seniors.</p>
+<p>8:00 PM – 10:00 PM</p>
 <p>MCR Room No – 106,Academic Block</p></td>
-<td><p>An inter-batch activity that serves as a platform for interacting with students across various batches (Seniors duh !!!).</p>
-<p>Get to know what you should do and what you can't do (:P)</p></td>
+<td><p>Don't be afraid by the word ragging.It will be an inter-batch activity that allows you(JUNIORS) to interact with the students across senior batches .</p>
+<p>So be prepared and remember that first impression is the last impression.Seniors though Juniors should show some respect XD</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Not decided</strong></p></td>
-<td><p>Meeting with the Women's Cell</p></td>
+<td><p><strong>Will be informed </strong></p></td>
+<td><p>Meeting with the Women's Cell</p>
+<p>There is such cell for boys (SAD)</p></td>
 <td><p>1:00 PM – 2:00 PM</p>
 <p>Respective Classroom</p></td>
-<td><p>You know what's gonna happen – Feminism at its best.</p></td>
+<td><p>You know what's gonna happen – Feminism at its best. Sorry boys it's time to respect the girls out there.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Not decided</strong></p></td>
-<td><p>Introduction to Clubs</p></td>
+<td><p><strong>Will be informed</strong></p></td>
+<td><p>IIITB's GOT TALENT</p>
+<p>Introduction to Clubs</p></td>
 <td><p>8:00 – 10:00 PM</p>
-<p>Venue will be coordinated by the respective clubs</p></td>
-<td><p>Come out of your closet. Dare to dream big!.....We need you!!!</p></td>
+<p>Venue will be coordinated by the respective clubs.</p></td>
+<td><p>Place which needs students (Don't be SHY there !).Better enjoy here.Come out of your closet. Dare to dream big and let your talent come out .</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Monday, August 15</strong><sup><strong>th</strong></sup> <strong>2016</strong></p></td>
+<td><p><strong>Monday, August 15</strong><sup><strong>th</strong></sup></p></td>
 <td><p>Independence Day Celebrations</p></td>
 <td><p>9:00 AM – 10:00 AM</p>
 <p>Reception Area, Academic Block</p></td>
-<td><p>Valar Morghulis</p>
-<p>(GOT ....must watch).</p></td>
+<td><p>The celeberation ceremony 70th (yes we have come too far) Independence day of India.</p>
+<p>VANDE MATRAM</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Not decided</strong></p></td>
-<td><p>Batch Photo</p></td>
-<td><p>End of the day</p></td>
-<td><p>A photo to remember forever.....do not screw it.</p></td>
+<td><p><strong>Will be informed</strong></p></td>
+<td><p>First and the last Batch Photo</p></td>
+<td><p>Probably in the afternoon.</p></td>
+<td><p>It's time to pose up.Girls:Do not pout here XD</p>
+<p>A photo to remember for your whole life.</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Not decided</strong></p></td>
+<td><p><strong>Will be informed</strong></p></td>
 <td><p>Introduction to Zense</p></td>
-<td><p><strong>Not decided</strong></p></td>
-<td><p>A meeting with the CEO and cofounders of a future company :P</p></td>
+<td><p><strong>Good Time for all the coders out there.</strong></p></td>
+<td><p>Get amazed by meeting with the highly skilled members of the Group.You are lucky and i mean it .</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Not decided</strong></p></td>
+<td><p><strong>Some day will definitely come.</strong></p></td>
 <td><p>8Bit Magazine Meeting</p></td>
-<td><p><strong>Not decided</strong></p></td>
+<td><p><strong>Time will be declared later</strong></p></td>
 <td><p>Chetan Bhagat probably didn't intend to be a writer when he was doing his undergrad!! A meeting with the IIITB Literary Society, we give you the opportunity to firm up what you might or might not become :P</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Not decided</strong></p></td>
+<td><p><strong>Will be informed</strong></p></td>
 <td><p>iMTech SAC Elections</p></td>
 <td><p>8:00 PM – 10:00 PM</p>
 <p>MCR Room No – 106,Academic Block</p></td>
-<td><p>This is serious college politics ....underage not allowed to vote :P</p></td>
+<td><p>This involves serious politics and underage are not allowed to vote .So better sit in a corner and gain some experiences.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Sunday, 21</strong><sup><strong>st</strong></sup> <strong>August 2016</strong></p></td>
+<td><p><strong>Sunday, 21</strong><sup><strong>st</strong></sup> <strong>August </strong></p></td>
 <td><p>Infin8 Fest Meeting</p></td>
-<td><p><strong>Not decided</strong></p></td>
-<td><p>A meeting for the upcoming fest</p></td>
+<td><p><strong>Again will be informed.</strong></p></td>
+<td><p>The first cultural fest of the college.Come up with good ideas and do give your contributions in the meeting. </p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Not decided</strong></p></td>
-<td><p>Freshers!!!!!</p></td>
-<td><p>Unlimited time</p>
+<td><p><strong>WAIT </strong></p></td>
+<td><p>Yes the most awaited thing for a junior FRESHER's PARTY.</p></td>
+<td><p>Late night fun </p>
 <p>Multi-Purpose Hall</p></td>
-<td><p>A night everyone was waiting for....!!!!</p></td>
+<td><p>Suit up guys,you need to impress the girls .And yes girls get your beauty mode on with all the make ups you have carried from home,time to use it.Dance,Drink(water XD)and yes better come up with some performances.We are waiting </p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Thursday, 15</strong><sup><strong>th</strong></sup> <strong>September 2016</strong></p></td>
+<td><p><strong>Thursday, 15</strong><sup><strong>th</strong></sup> <strong>September </strong></p></td>
 <td><p>Foundation Day</p></td>
 <td><p>5:00 PM - 8:00 PM</p>
 <p>Multi-Purpose Hall</p></td>
-<td><p>A cake everyone was waiting for....!!!!:P</p></td>
+<td><p>Happy Birthday to IIITB.Be happy because you are going to enjoy the meal that night and yes the cake :D</p></td>
 </tr>
 </tbody>
 </table>
