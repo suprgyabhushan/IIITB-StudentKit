@@ -40,7 +40,7 @@
 <td><p>The First Day Of College</p></td>
 <td><p>Excited ! You need to Wait.Timings will be informed on the day of orientation.</p>
 <p>Also the information will be sent on respective <strong>IIITB Mail</strong></p></td>
-<td></td>
+<td><p>I know it's tough but do get early guys and enjoy the breakfast before going to class.Don't forget to take a copy atleast along with you XD</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Yet to be declared</strong></p></td>
