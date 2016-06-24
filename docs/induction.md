@@ -27,7 +27,7 @@
 <td><p>Orientation</p></td>
 <td><p>10:00 AM – 12:00 PM</p>
 <p>Room No– 307, Academic Block</p></td>
-<td><p>Get your documents verified with a welcome note from studetns as well as faculties.</p></td>
+<td><p>Get your documents verified with a welcome note from students as well as faculties.</p></td>
 </tr>
 <tr class="odd">
 <td></td>
