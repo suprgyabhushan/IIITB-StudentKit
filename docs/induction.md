@@ -20,7 +20,7 @@
 <td><p>Registration</p></td>
 <td><p>8:00 AM – 10:00 AM</p>
 <p>Reception Area, Academic Block</p></td>
-<td><p>Special Day ! For the very first time you are going to enter the college as a student.</p></td>
+<td><p>Special Day! For the very first time you are going to enter the college as a student.</p></td>
 </tr>
 <tr class="even">
 <td></td>
