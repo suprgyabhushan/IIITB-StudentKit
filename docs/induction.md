@@ -90,7 +90,7 @@
 <td><p>First Batch Photo</p></td>
 <td><p>Probably in the afternoon.</p>
 <p>Venue will be coordinated by the IIITB Media Lab.</p></p></td>
-<td><p>It's time to pose up.Girls:Do not pout here XD</p>
+<td><p>It's time to pose up. Girls:Do not pout here XD</p>
 <p>A photo to remember for your whole life.</p></td>
 </tr>
 <tr class="odd">
@@ -123,7 +123,7 @@
 <td><p>Yes the most awaited thing for a junior FRESHER's PARTY.</p></td>
 <td><p>Late night fun </p>
 <p>Multi-Purpose Hall</p></td>
-<td><p>Suit up guys,you need to impress the girls. And yes, girls get your beauty mode on with all the make ups you have carried from home, time to use it. Dance,Drink(water XD)and yes better come up with some performances. We are waiting!! </p></td>
+<td><p>Suit up guys, you need to impress the girls. And yes, girls get your beauty mode on with all the make ups you have carried from home, time to use it. Dance,Drink (water XD) and yes better come up with some performances. We are waiting!! </p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Thursday, 15</strong><sup><strong>th</strong></sup> <strong>September </strong></p></td>
